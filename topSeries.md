@@ -2,4 +2,4 @@
 
 1. Luis Miguel: A Série
  
-!(/luis-miguel.jpg)
+![alt text](https://github.com/viniciusgrippa/top-series/blob/master/luis-miguel.jpg "Logo Title Text 1")
